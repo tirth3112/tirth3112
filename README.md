@@ -8,6 +8,12 @@
 
 </p>
 
+## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
+
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tirth-patel31/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/tirth_311299)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://tirth3112.github.io/)&nbsp;  
+
+ <br/>
+
 <img align="right" height="270px" alt="GIF" src="https://media4.giphy.com/media/8yQady2pFVfGJSnde7/giphy.gif?cid=ecf05e470zb487mx40aru53qfmi2l34959fcmq0oitxq8oud&rid=giphy.gif&ct=g" />
 
 
@@ -24,17 +30,20 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/tirth3112"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tirth3112&custom_title=tirth3112's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/tirth3112"><img alt="tirth3112's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tirth3112&custom_title=tirth3112's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
 <br/>
+
+<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ## Spotify Playing 🎧
 
 
 
 [![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/31dxwgwg7335fdmj2456af2imhty)
+
 
 
 
