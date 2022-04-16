@@ -1,27 +1,24 @@
-<h1 align="center">Hi , I'm Tirth Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer%20Science%20Student;Data%20Analyst;DS%20|%20Algorithm+|%20Analytics;Competitive%20Programmer&center=true&width=500&height=50"></a>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Tirth Patel</h1>
+
+<h3 align="center">Computer Science Student | Software Engineer | Data Analysis Enthusiast</h3>
+
 </p>
 
 
 
 
-## 📊 Github Stats
+### ⚙️ &nbsp;GitHub Analytics
 
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="tirth3112's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tirth3112&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirth3112&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
+<p align="center">
+<a href="https://github.com/tirth3112">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tirth3112&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tirth3112&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
