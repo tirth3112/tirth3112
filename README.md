@@ -4,9 +4,11 @@
 <hr>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Tirth Patel</h1>
 
-<h3 align="center">Computer Science Student | Software Engineer | Data Analysis Enthusiast</h3>
+<h3 align="center">Blockchain Developer | Software Engineer | Data Analysis Enthusiast</h3>
 
 </p>
+
+<img align="right" height="270px" alt="GIF" src="https://media4.giphy.com/media/8yQady2pFVfGJSnde7/giphy.gif?cid=ecf05e470zb487mx40aru53qfmi2l34959fcmq0oitxq8oud&rid=giphy.gif&ct=g" />
 
 
 
@@ -27,4 +29,12 @@
 
 
 <br/>
+
+## Spotify Playing 🎧
+
+
+
+[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/31dxwgwg7335fdmj2456af2imhty)
+
+
 
