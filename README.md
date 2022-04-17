@@ -19,7 +19,8 @@
 
  <br/>
  
- <img align="right" height="270px" alt="GIF" src="https://media4.giphy.com/media/8yQady2pFVfGJSnde7/giphy.gif?cid=ecf05e470zb487mx40aru53qfmi2l34959fcmq0oitxq8oud&rid=giphy.gif&ct=g" />
+ <img align="right" height="220px" alt="GIF" src="https://github.com/tirth3112/tirth3112/blob/master/giphy.gif" />
+
 
 - 🔭 I’m currently working on own Token(Coin) Generation
 - 🌱 I’m currently learning AWS, Blockchain, Solidity
