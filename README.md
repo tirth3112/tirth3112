@@ -8,12 +8,12 @@
 
 </p>
 
- <h2 align="center">Let's Connect <img src="https://cdn4.iconfinder.com/data/icons/business-and-e-commerce/64/Team-128.png" height=22/> </h2>
+ ## Let's Connect <img src="https://cdn4.iconfinder.com/data/icons/business-and-e-commerce/64/Team-128.png" height=22/> 
  
 
 
 
-<p align="center">[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tirth-patel31/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/tirth_311299)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png'  alt='github' height='40'>](https://tirth3112.github.io/)&nbsp;  [<img src='https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-128.png'  alt='github' height='45'>](mailto:tmp3199@gmail.com)&nbsp; [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg'  alt='github' height='40'>](https://www.instagram.com/tirth_3112/)&nbsp;</p>
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tirth-patel31/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/tirth_311299)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png'  alt='github' height='40'>](https://tirth3112.github.io/)&nbsp;  [<img src='https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-128.png'  alt='github' height='45'>](mailto:tmp3199@gmail.com)&nbsp; [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg'  alt='github' height='40'>](https://www.instagram.com/tirth_3112/)&nbsp;
 
 
 
