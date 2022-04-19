@@ -28,7 +28,7 @@
 - 🤔 I’m looking for a good project
 - 💬 Ask me about Blockchain Technology
 - 📫 How to reach me: [tmp3199@gmail.com](mailto:tmp3199@gmail.com)
-- 😄 Personal Portfolio: Tirth3112(https://tirth3112.github.io)
+- 😄 Personal Portfolio with Google Analytics 4: (https://tirth3112.github.io)
 
 
 
