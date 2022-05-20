@@ -21,7 +21,7 @@
 
  <br/>
 
-  <img width="350px" height="450px" align="right" alt="Github Image" src="https://github.com/tirth3112/tirth3112.github.io/blob/main/img/TP_logo.png" />
+  <img width="300px" height="180px" align="right" alt="Github Image" src="https://github.com/tirth3112/tirth3112.github.io/blob/main/img/TP_logo.png" />
 
   
  🔭 I’m currently working on own Token(Coin) Generation <br/>
@@ -32,7 +32,7 @@
  📫 How to reach me: [tmp3199@gmail.com](mailto:tmp3199@gmail.com) <br/>
  😄 Personal Portfolio with Google Analytics 4:     (https://tirth3112.github.io) <br/>
     
- <div align="left">
+ <div align="center">
   <img align="right" width="500px" height="245px" alt="GIF" src="https://github.com/tirth3112/tirth3112/blob/master/giphy.gif" /></div>
 
 
