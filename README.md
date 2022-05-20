@@ -21,7 +21,7 @@
 
  <br/>
 
-  <img width="300px" height="250px" align="right" alt="Github Image" src="https://github.com/tirth3112/tirth3112.github.io/blob/main/img/TP_logo.png" />
+  <img width="300px" height="450px" align="right" alt="Github Image" src="https://github.com/tirth3112/tirth3112.github.io/blob/main/img/TP_logo.png" />
 
   
  🔭 I’m currently working on own Token(Coin) Generation <br/>
