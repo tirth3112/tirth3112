@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<hr>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Tirth Patel</h1>
+
+<div align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </div>
 
 <h3 align="center">Blockchain Developer | Software Engineer | Data Analysis Enthusiast</h3>
 
@@ -18,18 +20,20 @@
 
 
  <br/>
- 
- <img align="right" height="220px" alt="GIF" src="https://github.com/tirth3112/tirth3112/blob/master/giphy.gif" />
 
+  <img width="350px" height="450px" align="right" alt="Github Image" src="https://github.com/tirth3112/tirth3112.github.io/blob/main/img/TP_logo.png" />
 
-- 🔭 I’m currently working on own Token(Coin) Generation
-- 🌱 I’m currently learning AWS, Blockchain, Solidity
-- 👯 I’m looking to collaborate on Data Science Project
-- 🤔 I’m looking for a good project
-- 💬 Ask me about Blockchain Technology
-- 📫 How to reach me: [tmp3199@gmail.com](mailto:tmp3199@gmail.com)
-- 😄 Personal Portfolio with Google Analytics 4:     (https://tirth3112.github.io)
-
+  
+ 🔭 I’m currently working on own Token(Coin) Generation <br/>
+ 🌱 I’m currently learning AWS, Blockchain, Solidity <br/>
+ 👯 I’m looking to collaborate on Data Science Project <br/>
+ 🤔 I’m looking for a good project <br/>
+ 💬 Ask me about Blockchain Technology <br/>
+ 📫 How to reach me: [tmp3199@gmail.com](mailto:tmp3199@gmail.com) <br/>
+ 😄 Personal Portfolio with Google Analytics 4:     (https://tirth3112.github.io) <br/>
+    
+ <div align="left">
+  <img align="right" width="500px" height="245px" alt="GIF" src="https://github.com/tirth3112/tirth3112/blob/master/giphy.gif" /></div>
 
 
 
