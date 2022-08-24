@@ -6,7 +6,7 @@
 
 <div align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </div>
 
-<h3 align="center">Blockchain Developer | Software Engineer | Data Analysis Enthusiast</h3>
+<h3 align="center"> Software Engineer | Data Analysis Enthusiast | Blockchain Developer |</h3>
 
 </p>
 
